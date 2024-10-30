@@ -1,0 +1,22 @@
+[
+      {
+            "name": "Home",
+            "path": "/home",
+            "icon": "home"
+      },
+      {
+            "name": "Shop",
+            "path": "/shop",
+            "icon": "shopping-cart"
+      },
+      {
+            "name": "About",
+            "path": "/about",
+            "icon": "info-circle"
+      },
+      {
+            "name": "Contact",
+            "path": "/contact",
+            "icon": "phone"
+      }
+]
