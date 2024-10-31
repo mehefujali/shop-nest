@@ -1,3 +1,5 @@
 #nav .active {
       border-bottom: 3px solid #FF6F61;
+      font-size: bold;
+      color: #FF6F61;
 }
